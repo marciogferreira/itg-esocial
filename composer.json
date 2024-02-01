@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-esocial",
+    "name": "marciogferreira/itg-esocial",
     "type": "library",
     "description": "e-Social library",
     "homepage": "https://github.com/nfephp-org/sped-esocial",
@@ -19,6 +19,11 @@
         {
             "name": "Ademilson Santana da Silva",
             "email": "ademilsonssilva1@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Haelio Marcio G. Ferreira",
+            "email": "hmarciogferreira@gmail.com",
             "role": "Developer"
         }
     ],
